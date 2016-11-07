@@ -2,11 +2,6 @@ Agenda
 ======
 
 |===================================================
-| 10:00 | Introductions, PCF Overview and Lab 1
-
-Day 1
-
-|===================================================
 |  BR      CH     MX
 | 10:00 | 09:00 | 05:00 | Introductions, PCF Overview and Lab 1
 | 11:00 | 10:00 | 06:00 | Services and Lab 2
